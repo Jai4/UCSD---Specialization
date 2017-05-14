@@ -12,3 +12,12 @@ WEEK 2
 * [Least Common Multiple](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%202/LeastCommonMultiple.cpp)
 * [Huge Fibonacci Number Modulo M](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%202/HugeFibonacciNumberModuloM.cpp)
 * [Sum Of  Fibonacci Numbers](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%202/SumOfFibonacciNumbers.cpp)
+
+WEEK 3
+
+* [Changing Money](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%203/ChangingMoney.cpp)
+* [Maximizing The Value Of A Loot](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%203/MaximizingLootValue.cpp)
+* [Maximizing Revenue In Online Ad Placement](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%203/MaximizingRevenueInOnlineAdPlacement.cpp)
+* [Collecting Signatures](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%203/CollectingSignatures.cpp)
+* [Maximizing The Number Of Prices Per Competition](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%203/MaximizingTheNumberOfPricesCompetition.cpp)
+* [Maximizing The Salary](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%203/LargestNumber.cpp)
