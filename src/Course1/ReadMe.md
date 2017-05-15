@@ -21,3 +21,8 @@ WEEK 3
 * [Collecting Signatures](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%203/CollectingSignatures.cpp)
 * [Maximizing The Number Of Prices Per Competition](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%203/MaximizingTheNumberOfPricesCompetition.cpp)
 * [Maximizing The Salary](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%203/LargestNumber.cpp)
+
+WEEK 4
+
+* [Implementing Binary Search](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%204/BinarySearch.cpp)
+* [Majority Element](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course1/Week%204/MajorityElement.cpp)
