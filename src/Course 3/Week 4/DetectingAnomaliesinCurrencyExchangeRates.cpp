@@ -23,15 +23,14 @@ public:
 	void getinput()
 	{
 		cin >> n >> m;
-
+                forn(i, 0, n + 1)
+                {
+		d.pb(1000000000);
+		}
 		forn(i, 0, m)
 		{
 			cin >> u >> v >> weight;
-			forn(i, 0, n + 1)
-			{
-				d.pb(1000000000);
-			}
-			po.pb(mp(mp(u, v), weight));
+		        po.pb(mp(mp(u, v), weight));
 			if (i == 0)
 			{
 				d[i] = 0;
