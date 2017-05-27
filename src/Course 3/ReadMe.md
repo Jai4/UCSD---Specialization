@@ -10,3 +10,6 @@
 ## WEEK 3
 * [Computing the Minimum Number of Flight Segments](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course%203/Week%203/MinimumNumberOfFlightSegments.cpp)
 * [Checking whether a Graph is Bipartite](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course%203/Week%203/CheckingWhetherAGraphIsBipartite.cpp)
+
+## WEEK 4
+* [Computing The Minimum Cost Of A Flight](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course%203/Week%204/ComputingMinimumFlightSegments.cpp)
