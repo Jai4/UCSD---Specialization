@@ -14,3 +14,4 @@
 ## WEEK 4
 * [Computing The Minimum Cost Of A Flight](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course%203/Week%204/ComputingMinimumFlightSegments.cpp)
 * [Detecting Anomalies in Currency Exchange Rates](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course%203/Week%204/DetectingAnomaliesinCurrencyExchangeRates.cpp)
+* [Exchanging Money Optimally](https://github.com/Jai4/UCSD---Specialization/blob/master/src/Course%203/Week%204/ExchangingMoneyOptimally.cpp)
